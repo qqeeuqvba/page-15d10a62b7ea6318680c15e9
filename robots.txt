@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.oslddwm.cn/sitemap.xml
